@@ -3,7 +3,7 @@
     display: flex;
     background: url('../resources/zombie3.jpeg') no-repeat center center fixed;
     background-size: cover;
-    font-family: Marker Felt, fantasy;
+    font-family:
     font-size: larger;
     flex-direction: column;
   }
