@@ -8,6 +8,8 @@
 
 <h1>Monster Killer Game</h1>
 
+![image](https://github.com/luanaftrindade/monsterKillerGame/assets/145289748/de6ad237-f80d-4a63-9656-928a086cb756)
+
 <p>This was my first HTML, CSS and JavaScript project, created in my first few weeks of learning how to code. Monster Killer is a simple and interactive game where you battle monsters by attacking them and healing yourself. Built with HTML, CSS, and JavaScript, this game is part of a training exercise from a Udemy course, providing a fun way to practice JavaScript development skills.</p>
 
 <h2>Features</h2>
